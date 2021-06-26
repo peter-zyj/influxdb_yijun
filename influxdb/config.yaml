@@ -1,0 +1,5 @@
+address: "13.56.180.223:8086"
+token: "ai1Rmx8W95VSg66wvUZ9UE4-xt8iQimXCmp1FN-6qdQZ9JlYw2ujP2gB5DmYa7KWjEKRc823r1uv_FRIF4S4GQ=="
+org: "cisco"
+bucket: "pytest"
+precision: "ns"
